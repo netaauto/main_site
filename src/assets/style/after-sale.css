@@ -1,0 +1,233 @@
+
+.pc-service .oneBox {
+  width: 100vw;
+  position: relative;
+}
+.pc-service .oneBox img {
+  width: 100vw;
+  display: block;
+}
+.pc-service .oneBox .tservice1 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5.043vw;
+  line-height: 108%;
+  text-align: center;
+  color: #ffffff;
+  font-family: "Prompt-Medium";
+  left: 12.5vw;
+  top: 24.219vw;
+}
+.pc-service .oneBox .tservice2 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 400;
+  left: 12.5vw;
+  font-size: 1.146vw;
+  line-height: 1.771vw;
+  color: #ffffff;
+  top: 30.208vw;
+}
+.pc-service .twoBox .tservice1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.771vw;
+  line-height: 1.771vw;
+  font-family: "Prompt-SemiBold";
+  color: #000000;
+  width: 100vw;
+  margin-top: 8.333vw;
+  text-align: center;
+  margin-bottom: 1.823vw;
+}
+.pc-service .twoBox .tservice2 {
+  margin-bottom: 9.219vw;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.771vw;
+  line-height: 1.771vw;
+  color: #000000;
+  font-family: "Prompt-Bold";
+  margin-left: 48.125vw;
+}
+.pc-service .twoBox .tservice2 span {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1.771vw;
+  line-height: 1.771vw;
+  color: #000000;
+  font-family: "Prompt-Light";
+}
+.pc-service .treBox {
+  width: 100vw;
+  position: relative;
+}
+.pc-service .treBox img {
+  width: 100vw;
+  display: block;
+}
+.pc-service .treBox .tservice1 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.292vw;
+  line-height: 3.125vw;
+  font-family: "Prompt-SemiBold";
+  top: 5vw;
+  left: 8.646vw;
+  color: #ffffff;
+}
+.pc-service .treBox .tservice2 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1.146vw;
+  line-height: 1.719vw;
+  color: #ffffff;
+  font-family: "Prompt-Light";
+  left: 8.646vw;
+  width: 49.271vw;
+  top: 8.594vw;
+}
+.pc-service .forBox {
+  width: 100vw;
+  position: relative;
+  padding: 8.333vw 7.292vw 0vw 7.292vw;
+}
+.pc-service .forBox img {
+  width: 85.417vw;
+  display: block;
+}
+.pc-service .forBox .tservice1 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.292vw;
+  line-height: 3.125vw;
+  font-family: "Prompt-SemiBold";
+  top: 11.667vw;
+  left: 10.625vw;
+  color: #ffffff;
+}
+.pc-service .forBox .tservice2 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1.146vw;
+  line-height: 1.719vw;
+  color: #ffffff;
+  font-family: "Prompt-Light";
+  left: 10.625vw;
+  width: 49.271vw;
+  top: 15.26vw;
+}
+.mobile-service .oneBox {
+  position: relative;
+}
+.mobile-service .oneBox img {
+  width: 100vw;
+  display: block;
+}
+.mobile-service .oneBox .t11 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8.533vw;
+  line-height: 108%;
+  text-align: center;
+  color: #ffffff;
+  font-family: "Prompt-Medium";
+  top: 44.267vw;
+  left: 5.6vw;
+}
+.mobile-service .oneBox .t22 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 12px;
+  /* or 105% */
+  font-family: "Prompt-Regular";
+  color: #ffffff;
+  top: 54.667vw;
+  left: 5.6vw;
+}
+.mobile-service .twoBox {
+  padding: 12.8vw 5.333vw 8vw 5.333vw;
+}
+.mobile-service .tservice1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 3.733vw;
+  line-height: 5.333vw;
+  color: #000000;
+  font-family: "Prompt-SemiBold";
+}
+.mobile-service .tservice2 {
+  text-align: right;
+  width: 100%;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.933vw;
+  line-height: 2.933vw;
+  color: #000000;
+  font-family: "Prompt-Bold";
+  margin-bottom: 6.4vw;
+  margin-top: 6.4vw;
+}
+.mobile-service .tservice2 span {
+  font-family: "Prompt-Light";
+  margin-top: 0.26vw;
+}
+.mobile-service .tservicei1 {
+  width: 100%;
+  display: block;
+  margin-bottom: 8.533vw;
+}
+.mobile-service .t5 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 5.333vw;
+  line-height: 4vw;
+  color: #000000;
+  margin-bottom: 6.4vw;
+  font-family: "Prompt-Regular";
+}
+.mobile-service .t6 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 4vw;
+  line-height: 6.133vw;
+  color: #000000;
+  font-family: "Prompt-Light";
+
+}
+.mobile-service .tservicei2 {
+  width: 100%;
+  display: block;
+  margin-bottom: 8.533vw;
+}
+.mobile-service .t7 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 5.333vw;
+  line-height: 4vw;
+  color: #000000;
+  font-family: "Prompt-Regular";
+  margin-bottom: 6.4vw;
+}
+.mobile-service .t8 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 4vw;
+  line-height: 6.133vw;
+  color: #000000;
+  font-family: "Prompt-Light";
+  margin-bottom: 14.933vw;
+}
+.mobile-service .tservicei3 {
+  width: 100%;
+  display: block;
+  margin-bottom: 8.533vw;
+}

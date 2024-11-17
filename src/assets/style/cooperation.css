@@ -1,0 +1,243 @@
+.pc-cooperation .oneBox {
+    width: 100vw;
+    position: relative;
+  }
+  .pc-cooperation .oneBox img {
+    width: 100vw;
+    display: block;
+  }
+  .pc-cooperation .oneBox div {
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5.043vw;
+    line-height: 108%;
+    text-align: center;
+    color: #ffffff;
+    width: 100vw;
+    font-family: "Prompt-Medium";
+    top: 19.375vw;
+  }
+  .pc-cooperation .twoBox {
+    width: 74.792vw;
+    margin-left: 12.604vw;
+    margin-top: 8.333vw;
+    padding-bottom: 10.208vw;
+  }
+  .pc-cooperation .twoBox .t1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 1.771vw;
+    color: #000000;
+    font-family: "Prompt-Regular";
+  }
+  .pc-cooperation .twoBox .t2 {
+    margin-bottom: 2.083vw;
+    margin-top: 1.667vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.146vw;
+    line-height: 1.771vw;
+    color: #000000;
+    font-family: "Prompt-Regular";
+  }
+  .pc-cooperation .twoBox .t3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.146vw;
+    line-height: 1.146vw;
+    color: #000000;
+    font-family: "Prompt-Bold";
+  }
+  .pc-cooperation .twoBox .t4 {
+    margin-top: 8.385vw;
+    display: flex;
+    justify-content: space-between;
+  }
+  .pc-cooperation .twoBox .t4 .k1 {
+    width: 36.458vw;
+  }
+  .pc-cooperation .twoBox .t4 .k1 img {
+    display: block;
+    width: 100%;
+  }
+  .pc-cooperation .twoBox .t4 .k1 div {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.146vw;
+    line-height: 1.771vw;
+    font-family: "Prompt-Regular";
+    margin-top: 2.092vw;
+    color: #000000;
+  }
+  .pc-cooperation .twoBox .t5 {
+    margin-top: 9.635vw;
+  }
+  .pc-cooperation .twoBox .t5 > div:nth-child(1) {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.865vw;
+    line-height: 3.125vw;
+    font-family: "Prompt-SemiBold";
+    text-align: center;
+    color: #000000;
+  }
+  .pc-cooperation .twoBox .t5 > div:nth-child(2) {
+    font-style: normal;
+    font-weight: 300;
+    margin-top: 0.625vw;
+    font-size: 1.771vw;
+    line-height: 2.656vw;
+    text-align: center;
+    font-family: "Prompt-Light";
+    color: #000000;
+  }
+  .pc-cooperation .twoBox .t5 > div:nth-child(3) {
+    font-style: normal;
+    font-weight: 300;
+    text-align: center;
+    font-size: 1.771vw;
+    line-height: 2.656vw;
+    color: #000000;
+    font-family: "Prompt-Light";
+  }
+  .pc-cooperation .twoBox .t5 > div:nth-child(3) span {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.771vw;
+    line-height: 2.656vw;
+    font-family: "Prompt-SemiBold";
+    color: #f65a11;
+  }
+  .mobile-cooperation .oneBox {
+    position: relative;
+  }
+  .mobile-cooperation .oneBox img {
+    width: 100vw;
+    display: block;
+  }
+  .mobile-cooperation .oneBox .t11 {
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8vw;
+    line-height: 108%;
+    color: #ffffff;
+    font-family: "Prompt-Medium";
+    top: 44.267vw;
+    left: 5.6vw;
+  }
+  .mobile-cooperation .oneBox .t22 {
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8vw;
+    line-height: 108%;
+    color: #ffffff;
+    font-family: "Prompt-Medium";
+    top: 53.067vw;
+    left: 41.333vw;
+  }
+  .mobile-cooperation .twoBox {
+    padding: 12.8vw 5.333vw 25.6vw 5.333vw;
+  }
+  .mobile-cooperation .t1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    color: #000000;
+    /* font-family: "Prompt-normal"; */
+    font-family: "Prompt-Medium";
+  }
+  .mobile-cooperation .t2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    color: #000000;
+    font-family: "Prompt-Light";
+    margin-top: 6.4vw;
+  }
+  .mobile-cooperation .t3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vw;
+    line-height: 4.533vw;
+    /* or 113% */
+    margin-top: 6.4vw;
+    font-family: "Prompt-Light";
+    color: #000000;
+  }
+  .mobile-cooperation .t4 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    font-family: "Prompt-Medium";
+    color: #000000;
+    margin-top: 9.333vw;
+    margin-bottom: 14.933vw;
+  }
+  .mobile-cooperation .i1 {
+    width: 100%;
+    display: block;
+    margin-bottom: 8.533vw;
+  }
+  .mobile-cooperation .t5 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    font-family: "Prompt-Light";
+    color: #000000;
+    margin-bottom: 14.933vw;
+  }
+  .mobile-cooperation .i2 {
+    width: 100%;
+    display: block;
+    margin-bottom: 8.533vw;
+  }
+  .mobile-cooperation .t6 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    font-family: "Prompt-Light";
+    color: #000000;
+    margin-bottom: 14.933vw;
+  }
+  .mobile-cooperation .t7 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 4vw;
+    line-height: 4vw;
+    margin-bottom: 2.133vw;
+    text-align: center;
+    font-family: "Prompt-SemiBold";
+    color: #000000;
+  }
+  .mobile-cooperation .t8 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    margin-bottom: 2.133vw;
+    text-align: center;
+    color: #000000;
+    font-family: "Prompt-Light";
+  }
+  .mobile-cooperation .t9 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    font-family: "Prompt-Light";
+    color: #000000;
+  }
+  .mobile-cooperation .t9 span {
+    font-family: "Prompt-SemiBold";
+    color: #f65a11;
+  }
+  

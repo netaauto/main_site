@@ -1,0 +1,144 @@
+@media screen and (min-width: 960px) {
+    .mobile {
+      display: none;
+    }
+    .mobilefoot {
+      display: none;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .pc {
+      display: none;
+    }
+    .pc-header {
+      display: none;
+    }
+    .pcfoot {
+      display: none;
+    }
+  }
+  [v-cloak] {
+    display: none;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  /* 隐藏滚动条 */
+  .pc::-webkit-scrollbar {
+    display: none;
+  }
+  /* 去除a标签默认横线 */
+  a {
+    text-decoration: none;
+  }
+  /* 隐藏id=scroll-box的滚动条 */
+  #scroll-box {
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+  #scroll-box::-webkit-scrollbar {
+    display: none;
+  }
+  .c-button {
+    width: 6.667vw;
+    height: 2.083vw;
+    line-height: 2.083vw;
+    font-size: 0.9375vw;
+    text-align: center;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    font-family: "Prompt-Light";
+    cursor: pointer;
+  }
+
+  @media screen and (max-width: 768px) {
+    
+    .c-button {
+      width: 20vw;
+      height: 6.25vw;
+      line-height: 6.25vw;
+      font-size: 3.2vw;
+      z-index: 99999;
+      border: none;
+    }
+    .swiper_but{
+      left: none;
+    }
+    
+  }
+  .c-button-dark {
+    color: #000000;
+    border: 1px solid #000000;
+  }
+  .c-button:hover {
+    background-image: linear-gradient(to right, #f65a11, #ff8820);
+    color: #ffffff !important;
+    border-color: #f65a11 !important;
+  }
+  .ele-center {
+    margin: 0 auto;
+  }
+  .more-btn {
+    font-size: 1.0416vw;
+    color: #040404;
+    display: flex;
+    align-items: center;
+    font-family: "Prompt-Light";
+    cursor: pointer;
+  }
+  .more-btn .arrow {
+    color: #f65a11;
+    margin-left: 0.3125vw;
+    position: relative;
+    top: 0.078vw;
+  }
+  .more-btn:hover {
+    font-weight: 700;
+  }
+  
+  .m-button {
+    height: 7.733vw;
+    width: 23.467vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3.2vw;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    font-family: "Prompt-Light";
+  }
+  .m-button-dark {
+    color: #000000;
+    border: 1px solid #000000;
+  }
+  .m-button:active {
+    background-image: linear-gradient(to right, #f65a11, #ff8820);
+    color: #ffffff;
+    border-color: #f65a11;
+  }
+  .m-more-btn {
+    width: 20vw;
+    font-size: 3.2vw;
+    color: #040404;
+    display: flex;
+    align-items: center;
+    font-family: "Prompt-Light";
+    cursor: none !important;
+  }
+  .m-more-btn .arrow {
+    color: #f65a11;
+    margin-left: 1.12vw;
+    position: relative;
+    top: 0.2666vw;
+  }
+  .m-more-btn:active {
+    font-weight: bold;
+  }
+  /* body {
+    overflow: hidden;
+  } */
+  

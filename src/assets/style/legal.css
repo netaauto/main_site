@@ -1,0 +1,151 @@
+.title {
+    text-align: center;
+    font-size: 1.25vw;
+    margin-top: 6.6vw;
+    font-weight: bold;
+    font-family: 'Prompt-Medium';
+}
+
+.box {
+    padding-left: 28.2vw;
+    width: 90vw;
+}
+
+.text-title {
+    text-align: left;
+    font-size: 1.25vw;
+    font-weight: bold;
+    font-family: 'Prompt-Medium';
+}
+
+.text-title:before {
+    content: "";
+    width: 0.2vw;
+    height: 0.2vw;
+    background-color: black;
+    border-radius: 50%;
+    margin-right: 0.233vw;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.content {
+    font-size: 0.83333vw;
+    line-height: 1.25vw;
+    text-align: left;
+    font-family: 'Prompt-Light';
+}
+
+.text-title {
+    font-size: 0.83333vw;
+    font-weight: bold;
+    text-align: left;
+    margin: 0.78125vw 0;
+    font-family: 'Prompt-Medium';
+}
+
+.aka {
+    margin-top: 2vw;
+}
+
+a {
+    font-family: 'Prompt-Light';
+    color: #F65A11;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+    .text-title:before {
+        content: "";
+        width: 1.2vw;
+        height: 1.2vw;
+        background-color: black;
+        border-radius: 50%;
+        margin-right: 0.233vw;
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .box {
+        margin-top: 0vw;
+        padding: 6vw;
+    }
+
+    .aka {
+        margin-top: 2vw;
+    }
+
+    .text-title {
+        font-size: 5.25vw;
+        text-align: left;
+    }
+
+    .notice-wrap {
+        padding: 14.6666vw 5.3333vw;
+    }
+
+    .title {
+        font-size: 6.4vw;
+        margin-top: 18.6vw;
+    }
+
+    .sub-title {
+        text-align: left;
+        font-size: 4.2666vw;
+        margin: 4vw 0;
+        font-family: 'Prompt-Light';
+    }
+
+    .content {
+        font-size: 4.2666vw;
+        line-height: 6.4vw;
+        text-align: left;
+        font-family: 'Prompt-Light';
+    }
+
+    .text-title {
+        text-align: left;
+        font-size: 4.2666vw;
+        margin: 4vw 0;
+    }
+
+    .mt {
+        margin-top: 4vw;
+    }
+
+    .table {
+        width: 100%;
+        overflow-x: auto;
+    }
+
+    table th {
+        padding: 1.33333vw 2.6666vw;
+        font-size: 4.2666vw;
+    }
+
+    table td {
+        padding: 1.33333vw 2.6666vw;
+        font-size: 4.2666vw;
+    }
+
+    .tk1 {
+        width: 25.06666vw;
+    }
+
+    .tk2 {
+        width: 26.666vw;
+    }
+
+    .tk3 {
+        width: 24vw;
+    }
+
+    .tk4 {
+        width: 24vw;
+    }
+
+    .mt-more {
+        margin-top: 8vw;
+    }
+}

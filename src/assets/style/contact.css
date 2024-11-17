@@ -1,0 +1,270 @@
+.pc-contact {
+    height: 77.917vw;
+    position: relative;
+    background: #f5f5f5;
+  }
+  .pc-contact .topImg {
+    width: 100%;
+    display: block;
+  }
+  .pc-contact .title-1 {
+    display: none;
+    position: absolute;
+    top: 12.5vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5.043vw;
+    line-height: 108%;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Medium";
+  }
+  .pc-contact .title-2 {
+    display: none;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    top: 19.219vw;
+    width: 100%;
+    font-size: 5.043vw;
+    font-family: "Prompt-Medium";
+    line-height: 108%;
+    text-align: center;
+    color: #ffffff;
+  }
+  .pc-contact .card {
+    padding: 2.5vw 2.917vw;
+    top: 32.813vw;
+    position: absolute;
+    z-index: 100;
+    background: #ffffff;
+    left: 10.938vw;
+    border-radius: 0.625vw;
+    display: flex;
+  }
+  .pc-contact .card .cardleft {
+    width: 35.938vw;
+    height: 29.896vw;
+    border: 0.104vw solid #d9d9d9;
+    border-radius: 0.625vw;
+    text-align: center;
+  }
+  .pc-contact .card .cardleft .toptitle {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.771vw;
+    margin-top: 2.083vw;
+    line-height: 1.771vw;
+    /* identical to box height, or 100% */
+    font-family: "Prompt-Medium";
+    color: #050505;
+  }
+  .pc-contact .card .cardleft .line {
+    width: 29.583vw;
+    height: 0.052vw;
+    margin-top: 1.25vw;
+    margin-left: 3.177vw;
+    margin-bottom: 1.25vw;
+    background-color: #d9d9d9;
+  }
+  .pc-contact .card .cardleft .content-top {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.563vw;
+    line-height: 1.979vw;
+    text-align: center;
+    font-family: "Prompt-Regular";
+    color: #666666;
+    margin-bottom: 4.167vw;
+  }
+  .pc-contact .card .cardleft .content-top .email {
+    color: #f65a11;
+  }
+  .pc-contact .card .cardleft .content-bottom {
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Prompt-Regular";
+    font-size: 1.563vw;
+    line-height: 1.979vw;
+    text-align: center;
+    color: #666666;
+  }
+  .pc-contact .card .cardleft .content-bottom .email {
+    color: #f65a11;
+  }
+  .pc-contact .card .cardright {
+    text-align: center;
+    margin-left: 1.667vw;
+  }
+  .pc-contact .card .cardright .topbox {
+    width: 35.938vw;
+    height: 13.906vw;
+    border: 0.104vw solid #d9d9d9;
+    border-radius: 0.625vw;
+    text-align: center;
+  }
+  .pc-contact .card .cardright .topbox .toptitle {
+    margin-top: 2.083vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.771vw;
+    font-family: "Prompt-Medium";
+    line-height: 1.771vw;
+    color: #050505;
+  }
+  .pc-contact .card .cardright .topbox .line {
+    width: 29.583vw;
+    height: 0.052vw;
+    margin-left: 3.177vw;
+    margin-top: 1.25vw;
+    margin-bottom: 1.25vw;
+    background-color: #d9d9d9;
+  }
+  .pc-contact .card .cardright .topbox .content-top {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.563vw;
+    line-height: 1.979vw;
+    font-family: "Prompt-Regular";
+    text-align: center;
+    color: #666666;
+  }
+  .pc-contact .card .cardright .topbox .content-top .email {
+    color: #f65a11;
+  }
+  .pc-contact .card .cardright .bottomBox {
+    width: 35.938vw;
+    height: 13.906vw;
+    border: 0.104vw solid #d9d9d9;
+    border-radius: 0.625vw;
+    text-align: center;
+    margin-top: 1.979vw;
+  }
+  .pc-contact .card .cardright .bottomBox .toptitle {
+    margin-top: 2.083vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.771vw;
+    font-family: "Prompt-Medium";
+    line-height: 1.771vw;
+    color: #050505;
+  }
+  .pc-contact .card .cardright .bottomBox .line {
+    width: 29.583vw;
+    margin-left: 3.177vw;
+    height: 0.052vw;
+    margin-top: 1.25vw;
+    margin-bottom: 1.25vw;
+    background-color: #d9d9d9;
+  }
+  .pc-contact .card .cardright .bottomBox .content-top {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.563vw;
+    line-height: 1.979vw;
+    font-family: "Prompt-Regular";
+    text-align: center;
+    color: #666666;
+  }
+  .pc-contact .card .cardright .bottomBox .content-top .email {
+    color: #f65a11;
+  }
+  .mobile-contact {
+    position: relative;
+    text-align: center;
+    height: 290.4vw;
+    background-color: #f5f5f5;
+  }
+  .mobile-contact .topImg {
+    width: 100%;
+    display: block;
+  }
+  .mobile-contact .title-1 {
+    display: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8vw;
+    line-height: 108%;
+    color: #ffffff;
+    width: 100vw;
+    text-align: center;
+    font-family: "Prompt-Medium";
+    position: absolute;
+    top: 33.6vw;
+    z-index: 100;
+  }
+  .mobile-contact .title-2 {
+    display: none;
+    font-style: normal;
+    font-weight: 500;
+    width: 100vw;
+    font-size: 8vw;
+    line-height: 108%;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Medium";
+    top: 46.4vw;
+    position: absolute;
+    z-index: 100;
+  }
+  .mobile-contact .cardBox {
+    position: absolute;
+    z-index: 100;
+    top: 74.133vw;
+    height: 190.667vw;
+    left: 20px;
+    background: #ffffff;
+    border-radius: 3.2vw;
+    padding: 8.533vw 4.267vw 0vw 4.267vw;
+  }
+  .mobile-contact .cardBox .card {
+    border: 0.251vw solid #d9d9d9;
+    border-radius: 1.505vw;
+    padding-bottom: 6.4vw;
+    width: 80.8vw;
+    margin-bottom: 8.533vw;
+  }
+  .mobile-contact .cardBox .card .title {
+    margin-top: 6.4vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5.333vw;
+    line-height: 4.267vw;
+    color: #050505;
+    font-family: "Prompt-Medium";
+  }
+  .mobile-contact .cardBox .card .line {
+    height: 0.267vw;
+    margin-left: 7.6vw;
+    margin-right: 7.6vw;
+    background-color: #d9d9d9;
+    margin-top: 3.947vw;
+    margin-bottom: 4.373vw;
+  }
+  .mobile-contact .cardBox .card .content-1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    text-align: center;
+    color: #666666;
+    font-family: "Prompt-Regular";
+  }
+  .mobile-contact .cardBox .card .content-1 .email {
+    color: #f65a11;
+  }
+  .mobile-contact .cardBox .card .content-2 {
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    text-align: center;
+    color: #666666;
+    font-family: "Prompt-Regular";
+  }
+  .mobile-contact .cardBox .card .content-2 .email {
+    color: #f65a11;
+  }
+  

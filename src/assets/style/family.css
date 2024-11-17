@@ -1,0 +1,138 @@
+.mobile-family .firs {
+    position: relative;
+  }
+  .mobile-family .firs .topimg {
+    width: 100vw;
+    display: block;
+  }
+  .mobile-family .firs .toptx {
+    position: absolute;
+    top: 29.933vw;
+    width: 100vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9.682vw;
+    line-height: 108%;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Medium";
+  }
+  .mobile-family .content {
+    width: 89.333vw;
+    margin-left: 5.333vw;
+  }
+  .mobile-family .content .titleImg {
+    width: 100%;
+    margin-top: 10.667vw;
+  }
+  .mobile-family .content .title {
+    margin-top: 8.267vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    font-family: "Prompt-Regular";
+    color: #000000;
+    line-height: 120%;
+  }
+  .mobile-family .content .content-m {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    font-family: "Prompt-Light";
+    margin-bottom: 6.4vw;
+    margin-top: 4.267vw;
+    color: #000000;
+    overflow:hidden;
+  
+  text-overflow:ellipsis;
+  
+  display:-webkit-box;
+  
+  -webkit-box-orient:vertical;
+  
+  -webkit-line-clamp:5; 
+  }
+  .mobile-family .content .but {
+    width: 19.467vw;
+  }
+  .pc-family .top-pc {
+    position: relative;
+  }
+  .pc-family .top-pc .topImg-pc {
+    width: 100%;
+    display: block;
+  }
+  .pc-family .top-pc .toptext {
+    position: absolute;
+    top: 16.979vw;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 5.043vw;
+    line-height: 108%;
+    font-family: "Prompt-Medium";
+  }
+  .pc-family .pcCardBox {
+    padding: 8.385vw 12.5vw 10.208vw 12.5vw;
+  }
+  .pc-family .pcCardBox .card-pc {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7.813vw;
+  }
+  .pc-family .pcCardBox .card-pc .card-left {
+    width: 38.594vw;
+  }
+  .pc-family .pcCardBox .card-pc .card-left .card-title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    color: #000000;
+    font-family: "Prompt-Regular";
+    line-height: 2.292vw;
+    cursor: pointer;
+  }
+  .pc-family .pcCardBox .card-pc .card-left .card-title:hover {
+    font-weight: bold;
+  }
+  .pc-family .pcCardBox .card-pc .card-left .card-content {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.042vw;
+    line-height: 1.563vw;
+    color: #000000;
+    font-family: "Prompt-Light";
+    margin-top: 2.604vw;
+    margin-bottom: 0.938vw;
+  }
+  .pc-family .pcCardBox .card-pc .card-left .buttom-card {
+    width: 6.5vw;
+    cursor: pointer;
+  }
+  .pc-family .pcCardBox .card-pc .card-right .rightImg {
+    width: 26.042vw;
+    height: 26.042vw;
+    cursor: pointer;
+  }
+  .pc-family .cardButtom-pc .cardButtom-pc-img {
+    width: 6.667vw;
+    margin-left: 34.167vw;
+    cursor: pointer;
+  }
+  .mobile-family .butadd {
+    height: 8.533vw;
+    width: 23.467vw;
+    margin-left: 38.4vw;
+    margin-top: 16.4vw;
+    margin-bottom: 27.333vw;
+    border: 0.267vw solid black;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 3.2vw;
+    line-height: 8.533vw;
+    text-align: center;
+    color: #000000;
+  }
+  

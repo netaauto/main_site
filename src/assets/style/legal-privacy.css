@@ -1,0 +1,115 @@
+
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.fontBold {
+    font-weight: bold;
+}
+
+.privacy-section {
+    font-family: Prompt-Light;
+    font-size: 0.83vw;
+    line-height: 1.25vw;
+    color: #000;
+    overflow-x: hidden;
+    padding: 7.60416vw 5.2083vw 2.60416vw;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+.privacy-section-title {
+    font-family: 'Prompt-Medium';
+    font-size: 1.25vw;
+    line-height: 1.2;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0.78125vw;
+}
+
+.privacy-section-container {
+    margin-top: 0.78125vw;
+}
+
+.privacy-section-container-title {
+    font-family: Prompt-Medium;
+    font-weight: bold;
+    margin-top: 0.78125vw;
+}
+
+.privacy-section-container-content-item {
+    margin-top: 0.78125vw;
+}
+
+.privacy-table {
+    margin-top: 1.5625vw;
+    width: 100%;
+}
+
+.privacy-table th {
+    padding: 0.2604vw 0.52083vw;
+    text-align: left;
+    font-family: Prompt-Medium;
+}
+
+.privacy-table td {
+    padding: 0.2604vw 0.52083vw;
+    text-align: left;
+    font-family: Prompt-Light;
+}
+
+@media screen and (max-width: 768px) {
+    .privacy-section {
+        font-size: 4.2666vw;
+        line-height: 6.4vw;
+        padding: 16.6666vw 5.3333vw;
+    }
+
+    .privacy-section-title {
+        font-size: 6.4vw;
+        margin-top: 4vw;
+    }
+
+    .privacy-section-container {
+        margin-top: 4vw;
+    }
+
+    .privacy-section-container-title {
+        margin-top: 4vw;
+    }
+
+    .privacy-section-container-content-item {
+        margin-top: 4vw;
+    }
+
+    .privacy-table {
+        width: 100%;
+        margin-top: 8vw;
+        overflow-x: auto;
+    }
+
+    .privacy-table th,
+    .privacy-table td {
+        padding: 1.33333vw 2.6666vw;
+    }
+}
+
+a {
+    font-family: 'Prompt-Light';
+    color: #F65A11;
+    cursor: pointer;
+    text-decoration: underline;
+}

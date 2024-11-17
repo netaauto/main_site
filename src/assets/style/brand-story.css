@@ -1,0 +1,331 @@
+.pc-brand-story .oneBox {
+    width: 100%;
+    position: relative;
+  }
+  .pc-brand-story .oneBox .i1 {
+    width: 100vw;
+    display: block;
+  }
+  .pc-brand-story .oneBox .i2 {
+    height: 7.916vw;
+    width: 9.583vw;
+    left: 45.208vw;
+    position: absolute;
+    top: 15.208vw;
+  }
+  .pc-brand-story .oneBox .t1 {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    top: 27.707vw;
+    font-size: 2.292vw;
+    line-height: 3.49vw;
+    text-align: center;
+    color: #ffffff;
+    width: 100vw;
+    font-family: "Prompt-Regular";
+  }
+  .pc-brand-story .twoBox {
+    width: 100%;
+    position: relative;
+    font-family: "Prompt-Light";
+    padding-bottom: 12.24vw;
+  }
+  .pc-brand-story .twoBox .t1 {
+    height: 8.594vw;
+    width: 64.167vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.771vw;
+    line-height: 2.865vw;
+    text-align: center;
+    color: #050505;
+    margin-left: 17.917vw;
+    margin-top: 8.333vw;
+    margin-bottom: 6.25vw;
+  }
+  .pc-brand-story .twoBox .i1 {
+    display: block;
+    height: 20.833vw;
+    width: 51.302vw;
+    margin-left: 24.323vw;
+  }
+  .pc-brand-story .threeBox {
+    width: 100%;
+    position: relative;
+  }
+  .pc-brand-story .threeBox .i1 {
+    display: block;
+    width: 100vw;
+  }
+  .pc-brand-story .threeBox .t1 {
+    position: absolute;
+    width: 64.167vw;
+    left: 18.646vw;
+    top: 16.198vw;
+    text-align: center;
+  }
+  .pc-brand-story .threeBox .t1 .t2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 2.292vw;
+    line-height: 2.865vw;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Prompt-Light";
+  }
+  .pc-brand-story .threeBox .t1 .t3 {
+    font-family: "Prompt-SemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.292vw;
+    line-height: 2.865vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .pc-brand-story .threeBox .t4 {
+    position: absolute;
+    font-style: normal;
+    text-align: center;
+    color: #ffffff;
+    width: 65.469vw;
+    font-size: 0.9vw;
+    top: 23.958vw;
+    left: 17.292vw;
+    font-weight: 300;
+    line-height: 1.771vw;
+    letter-spacing: 0em;
+  }
+  .pc-brand-story .forBox-brand-story {
+    display: flex;
+    margin-top: 12.24vw;
+    padding: 0vw 4.167vw;
+  }
+  .pc-brand-story .forBox-brand-story .lefBox {
+    width: 44.557vw;
+    margin-right: 2.5vw;
+  }
+  .pc-brand-story .forBox-brand-story .lefBox .i1 {
+    display: block;
+    width: 45.781vw;
+    height: 32.24vw;
+  }
+  .pc-brand-story .forBox-brand-story .lefBox .i11 {
+    display: block;
+    width: 45.781vw;
+    height: 32.24vw;
+    overflow: hidden;
+  }
+  .pc-brand-story .forBox-brand-story .lefBox .t1 {
+    font-family: "Prompt-SemiBold";
+    margin-top: 2.917vw;
+    margin-bottom: 1.563vw;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.292vw;
+    line-height: 2.865vw;
+    color: #000000;
+  }
+  .pc-brand-story .forBox-brand-story .lefBox .t2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.771vw;
+    color: #000000;
+    width: 42.726vw;
+  }
+  .pc-brand-story .forBox-brand-story .rigBox {
+    width: 44.557vw;
+  }
+  .pc-brand-story .forBox-brand-story .rigBox .t1 {
+    font-family: "Prompt-SemiBold";
+    margin-bottom: 1.563vw;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.292vw;
+    line-height: 2.865vw;
+    color: #000000;
+  }
+  .pc-brand-story .forBox-brand-story .rigBox .t2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.771vw;
+    color: #000000;
+    width: 42.726vw;
+  }
+  .pc-brand-story .forBox-brand-story .rigBox .i1 {
+    display: block;
+    width: 45.781vw;
+    height: 32.24vw;
+  }
+  .pc-brand-story .forBox-brand-story .rigBox .i11 {
+    margin-top: 4.01vw;
+    display: block;
+    width: 45.781vw;
+    height: 32.24vw;
+    overflow: hidden;
+  }
+  .pc-brand-story .fiveBox {
+    margin-top: 12.604vw;
+    width: 100vw;
+    position: relative;
+  }
+  .pc-brand-story .fiveBox .i1 {
+    display: block;
+    width: 100vw;
+  }
+  .pc-brand-story .fiveBox .t1 {
+    font-family: "Prompt-Light";
+    position: absolute;
+    height: 13.958vw;
+    width: 64.167vw;
+    left: 17.917vw;
+    top: 14.792vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.771vw;
+    line-height: 2.865vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .pc-brand-story .fiveBox .t1 span {
+    font-family: "Prompt-Bold";
+  }
+  .mobile-brand-story .oneBox {
+    width: 100vw;
+    position: relative;
+  }
+  .mobile-brand-story .oneBox .i1 {
+    width: 100vw;
+    display: block;
+  }
+  .mobile-brand-story .oneBox .i2 {
+    position: absolute;
+    height: 21.869vw;
+    width: 26.133vw;
+    left: 37.067vw;
+    top: 65.6vw;
+  }
+  .mobile-brand-story .oneBox .t1 {
+    position: absolute;
+    width: 100vw;
+    font-family: "Prompt-Regular";
+    top: 95.2vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    line-height: 6.4vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .mobile-brand-story .twoBox {
+    height: 121.867vw;
+  }
+  .mobile-brand-story .twoBox .t1Box {
+    padding-top: 13.333vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 7.467vw;
+    text-align: center;
+    color: #050505;
+    margin-bottom: 13.6vw;
+    width: 72.8vw;
+    height: 44vw;
+    margin-left: 14.133vw;
+    font-family: "Prompt-Light";
+  }
+  .mobile-brand-story .twoBox .i1 {
+    display: block;
+    width: 89.333vw;
+    margin-left: 5.333vw;
+  }
+  .mobile-brand-story .treBox {
+    position: relative;
+  }
+  .mobile-brand-story .treBox .i1 {
+    display: block;
+    width: 100vw;
+  }
+  .mobile-brand-story .treBox .t1 {
+    position: absolute;
+    top: 34.133vw;
+    width: 100vw;
+  }
+  .mobile-brand-story .treBox .t1 .t2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 5.333vw;
+    line-height: 7.467vw;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Light";
+  }
+  .mobile-brand-story .treBox .t1 .t3 {
+    font-family: "Prompt-SemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 5.333vw;
+    line-height: 7.467vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .mobile-brand-story .treBox .t1 .t4 {
+    margin-top: 3.733vw;
+    font-family: "Prompt-Light";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 3.2vw;
+    line-height: 4.533vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .mobile-brand-story .forBox-brand-story {
+    padding: 13.333vw 5.333vw 0vw 5.333vw;
+  }
+  .mobile-brand-story .forBox-brand-story .i1 {
+    width: 100%;
+    display: block;
+  }
+  .mobile-brand-story .forBox-brand-story .t1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 5.333vw;
+    line-height: 7.467vw;
+    color: #000000;
+    margin-top: 5.333vw;
+    font-family: "Prompt-SemiBold";
+  }
+  .mobile-brand-story .forBox-brand-story .t2 {
+    font-family: "Prompt-Light";
+    margin-top: 1.333vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 3.2vw;
+    line-height: 4.533vw;
+    color: #000000;
+    margin-bottom: 13.333vw;
+  }
+  .mobile-brand-story .fiveBox {
+    position: relative;
+  }
+  .mobile-brand-story .fiveBox .i1 {
+    display: block;
+    width: 100vw;
+  }
+  .mobile-brand-story .fiveBox .t1 {
+    color: white;
+    position: absolute;
+    height: 50.933vw;
+    width: 82vw;
+    font-size: 4vw;
+    top: 21.333vw;
+    font-family: "Prompt-Light";
+    left: 9.067vw;
+  }
+  .mobile-brand-story .fiveBox .t1 span {
+    color: white;
+    font-family: "Prompt-Bold";
+  }
+  

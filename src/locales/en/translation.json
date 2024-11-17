@@ -1,0 +1,69 @@
+{
+    "mainLang": "en",
+    "az": "Azerbaijan",
+    "en": "English",
+    "language": "Select language",
+    "learnMore": "Learn more",
+    "readMore": "Read more",
+    "helloWorld":"Hello World!",
+    "Myanmar":"Myanmar",
+    "Nepal":"Nepal",
+    "Thailand":"Thailand",
+    "Azerbaijan":"Azerbaijan",
+    "China":"China",
+    "Malaysia":"Malaysia",
+    "Laos":"Laos",
+    "latestNews":"Latest News",
+    "backToHomePage":"Back to Home Page",
+    "notFound":"Page not found",
+    "creditCalculator":"Credit Calculator",
+    "creditCalculatorTitle":"Car loan calculator",
+    "selectModel":"Model",
+    "price":"Price",
+    "downPayment":"Down payment",
+    "creditMonth":"Credit month",
+    "creditPrice":"Credit price",
+    "monthlyPayment":"Monthly payment",
+    "calculatorDescription":"Use our loan calculator to calculate payments over the life of your loan. Enter your information to see how much your monthly payments could be. You can adjust length of loan, down payment and interest rate to see how those changes raise or lower your payments.",
+    "calculate":"Calculate",
+    "notSelected":"Not selected",
+    "second":"s",
+    "minute":"m",
+    "k-h":"km/h",
+    "name": "Your name",
+    "phonenumber": "Your phone number",
+    "date": "Desired date",
+    "saveForTestDrive": "Sign up for a test drive",
+    "successTestDrive":"You have successfully signed up for a test drive. Our colleagues will contact you.",
+    "errorTestDrive":"An error occurred while signing up for a test drive. Please try again",
+    "netaUserCenter":"Neta User Center",
+    "Yangon": "Yangon",
+    "Kathmandu": "Kathmandu",
+    "Bangkok": "Bangkok",
+    "Baku": "Baku",
+    "Hanzhou": "Hangzhou",
+    "KualaLumpur": "Kuala Lumpur",
+    "Vientiane": "Vientiane",
+    "requiredMessageForTestDrive":"* You must fill in all fields to send the application",
+    "userManual":"User Manual",
+    "UuserManualDownload":"U User Manual Download",
+    "VRHDUserManualDowjload":"V RHD User Manual Download",
+    "VLHDUserManual":"V LHD User Manual",
+    "netaServiceManusal":"Neta Service Manuals",
+    "testDrive":"Test Drive"
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+}

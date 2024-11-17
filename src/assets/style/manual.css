@@ -1,0 +1,200 @@
+
+.pc-manual {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.mobile-manual {
+    min-height: 50vh !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.pc-manual .pcbox {
+    display: flex;
+}
+
+.pc-manual .pcbox .leftBox {
+    margin-top: 14.427vw;
+    margin-left: 4.583vw;
+}
+
+.pc-manual .pcbox .leftBox .active {
+    color: #F65A11;
+}
+
+.pc-manual .pcbox .leftBox .t1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.25vw;
+    line-height: 108%;
+    color: #050505;
+    margin-bottom: 1.563vw;
+    font-family: 'Prompt-Medium';
+}
+
+.pc-manual .pcbox .leftBox .t2 {
+    font-style: normal;
+    font-weight: 300;
+    cursor: pointer;
+    font-size: 1.146vw;
+    line-height: 120%;
+    margin-bottom: 1.042vw;
+    font-family: 'Prompt-Light';
+}
+
+.pc-manual .pcbox .leftBox .t2:hover {
+    color: #F65A11;
+}
+
+.pc-manual .pcbox .rightbox {
+    margin-left: 18.802vw;
+    margin-top: 3.208vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.pc-manual .pcbox .rightbox .title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 120%;
+    color: #000000;
+    margin-bottom: 5.417vw;
+}
+
+.pc-manual .pcbox .rightbox .lefImg {
+    width: 10.156vw;
+    margin-left: 6.542vw;
+}
+
+.pc-manual .pcbox .rightbox .btnImg {
+    margin-left: 5.26vw;
+    margin-top: 1.25vw;
+    width: 12.708vw;
+    cursor: pointer;
+}
+
+.pc-manual .pcbox .rightbox .btnImg1 {
+    margin-left: 5.104vw;
+    margin-top: 1.25vw;
+    width: 11.51vw;
+    cursor: pointer;
+}
+
+.pc-manual .pcbox .rightbox .btnImg2 {
+    margin-left: 5.26vw;
+    margin-top: 1.25vw;
+    width: 14.583vw;
+    cursor: pointer;
+}
+
+.pc-manual .pcbox .rightbox .btnImg3 {
+    margin-left: 5.26vw;
+    margin-top: 1.25vw;
+    width: 14.219vw;
+    cursor: pointer;
+}
+
+  .pc-manual .pcbox .rightbox .btnImg4 {
+    margin-left: 0vw;
+    width: 18.219vw;
+    cursor: pointer;
+}
+
+
+
+
+
+.mobile-manual .mobileBox .leftBox {
+    margin-top: 25.067vw;
+    margin-left: 11.467vw;
+    /* width: 69.6vw; */
+}
+
+.mobile-manual .mobileBox .active {
+    color: #F65A11;
+}
+
+.mobile-manual .mobileBox .t1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 6.4vw;
+    line-height: 108%;
+    color: #050505;
+    margin-bottom: 6.4vw;
+    font-family: 'Prompt-Medium';
+}
+
+.mobile-manual .mobileBox .t2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 5.333vw;
+    line-height: 120%;
+    margin-bottom: 5.333vw;
+    font-family: 'Prompt-Light';
+}
+
+.mobile-manual .mobileBox .t2:hover {
+    color: #F65A11;
+}
+
+.mobile-manual .mobileBox .rightbox {
+    margin-top: 12.8vw;
+    padding-bottom: 20vh;
+    display: none;
+    flex-direction: column;
+}
+
+.mobile-manual .mobileBox .rightbox .title {
+    text-align: left;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.334vw;
+    line-height: 120%;
+    margin-left: 11.467vw;
+    color: #000000;
+    margin-bottom: 10.4vw;
+}
+
+.mobile-manual .mobileBox .rightbox .lefImg {
+    width: 52.053vw;
+    margin-left: 23.733vw;
+}
+
+.mobile-manual .mobileBox .rightbox .btnImg {
+    margin-left: 17.333vw;
+    margin-top: 6.4vw;
+    width: 65.067vw;
+    cursor: pointer;
+}
+
+.mobile-manual .mobileBox .rightbox .btnImg1 {
+    margin-left: 20.55vw;
+    margin-top: 6.4vw;
+    width: 58.933vw;
+    cursor: pointer;
+}
+
+.mobile-manual .mobileBox .rightbox .btnImg2 {
+    margin-left: 12.67vw;
+    margin-top: 6.4vw;
+    width: 74.667vw;
+    cursor: pointer;
+}
+
+.mobile-manual .mobileBox .rightbox .btnImg3 {
+    margin-left: 13.6vw;
+    margin-top: 6.4vw;
+    width: 72.8vw;
+    cursor: pointer;
+}
+  .mobile-manual .mobileBox .rightbox .btnImg4 {
+    margin-left: 8.6vw;
+    width: 82.8vw;
+    cursor: pointer;
+}
+

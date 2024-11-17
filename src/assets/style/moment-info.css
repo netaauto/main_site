@@ -1,0 +1,266 @@
+.pc-moment-info .title-pc {
+    margin-top: 9.323vw;
+    margin-left: 7.813vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.771vw;
+    line-height: 108%;
+    color: #0b0a0a;
+    margin-bottom: 5.99vw;
+    font-family: "Prompt-Medium";
+  }
+  .pc-moment-info .contentBox {
+    padding: 0px 21.615vw;
+  }
+  .pc-moment-info .contentBox .title-name {
+    font-family: "Prompt-Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 2.396vw;
+    color: #000000;
+  }
+  .pc-moment-info .contentBox .date-pc {
+    margin-top: 1.771vw;
+    margin-bottom: 2.917vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.938vw;
+    line-height: 0.938vw;
+    font-family: "Prompt-Light";
+    color: rgba(0, 0, 0, 0.6);
+  }
+  .pc-moment-info .contentBox p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.042vw;
+    line-height: 1.563vw;
+    color: #000000;
+    margin-bottom: 2.083vw;
+    font-family: "Prompt-Light";
+  }
+  .pc-moment-info .contentBox img {
+    width: 100%;
+    margin-top: 0.833vw;
+    display: block;
+  }
+  .pc-moment-info .contentBox h2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.938vw;
+    font-family: "Prompt-Light";
+    text-align: center;
+    line-height: 1.406vw;
+    color: rgba(0, 0, 0, 0.6);
+    margin-top: -0.833vw;
+    margin-bottom: 2.917vw;
+  }
+  .pc-moment-info .contentBox .card {
+    padding: 3.333vw 0px;
+    border-top: 0.052vw solid rgba(0, 0, 0, 0.3);
+    border-bottom: 0.052vw solid rgba(0, 0, 0, 0.3);
+  }
+  .pc-moment-info .contentBox .card .title-card {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.042vw;
+    line-height: 1.563vw;
+    color: #000000;
+    margin-bottom: 0.417vw;
+    font-family: "Prompt-SemiBold";
+  }
+  .pc-moment-info .contentBox .card .card-content {
+    font-size: 0.938vw;
+    margin-bottom: 1.563vw;
+    font-family: "Prompt-Light";
+  }
+  .pc-moment-info .contentBox .card .card-content-b {
+    font-size: 0.938vw;
+    font-family: "Prompt-Light";
+  }
+  .pc-moment-info .contentBox .share {
+    display: flex;
+    align-items: center;
+    border-top: 0.052vw solid rgba(0, 0, 0, 0.3);
+    padding-top: 3.333vw;
+    padding-bottom: 10.208vw;
+  }
+  .pc-moment-info .contentBox .share img {
+    margin-bottom: 0vw !important;
+  }
+  .pc-moment-info .contentBox .shareImg:nth-of-type(1) {
+    width: 2.813vw;
+  }
+  .pc-moment-info .contentBox .shareImg:nth-of-type(2) {
+    cursor: pointer;
+    height: 1.25vw;
+    width: 1.25vw;
+    margin-left: 2.083vw;
+  }
+  .pc-moment-info .contentBox .shareImg:nth-of-type(3) {
+    cursor: pointer;
+    height: 1.25vw;
+    width: 1.25vw;
+    margin-left: 0.833vw;
+  }
+  .pc-moment-info .contentBox .shareImg:nth-of-type(4) {
+    cursor: pointer;
+    height: 1.25vw;
+    width: 1.25vw;
+    margin-left: 0.833vw;
+  }
+  .pc-moment-info .contentBox .sebox {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.042vw;
+    line-height: 1.563vw;
+    color: #000000;
+    margin-top: 3.333vw;
+    font-family: "Prompt-SemiBold";
+  }
+  .pc-moment-info .contentBox .contentbox {
+    font-size: 0.938vw;
+    font-family: "Prompt-Light";
+  }
+  .pc-moment-info .contentBox #email {
+    cursor: pointer;
+    font-size: 0.938vw;
+    font-family: "Prompt-Light";
+    margin-bottom: 3.333vw;
+  }
+  .mobile-moment-info {
+    background-color: #fff;
+  }
+  .mobile-moment-info .mobileBox {
+    padding: 0vw 5.333vw;
+    padding-bottom: 10.667vw;
+  }
+  h3 {
+    margin-bottom: 1.458vw;
+    font-family: "Prompt-Medium";
+  }
+  .mobile-moment-info .mobileBox h3 {
+    font-weight: 500;
+    font-size: 4vw;
+    line-height: 4.533vw;
+    color: #000000;
+    margin-bottom: 4.267vw;
+    font-family: "Prompt-Medium";
+    margin-bottom: 4.267vw;
+  }
+  .mobile-moment-info .mobileBox .title {
+    color: #0b0a0a;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 6.4vw;
+    line-height: 108%;
+    font-family: "Prompt-Medium";
+    margin-top: 21.867vw;
+    margin-bottom: 9.6vw;
+  }
+  .mobile-moment-info .mobileBox .titleTwo {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    line-height: 8vw;
+    color: #000000;
+    font-family: "Prompt-Regular";
+  }
+  .mobile-moment-info .mobileBox .date {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 3.2vw;
+    line-height: 4.8vw;
+    color: #808690;
+    font-family: "Prompt-Light";
+    margin-top: 5.333vw;
+    margin-bottom: 10.667vw;
+  }
+  .mobile-moment-info .mobileBox p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    font-family: "Prompt-Light";
+    color: #000000;
+    margin-bottom: 10.667vw;
+  }
+  .mobile-moment-info .mobileBox img {
+    display: block;
+    width: 100%;
+  }
+  .mobile-moment-info .mobileBox h1 {
+    font-weight: 500;
+    font-size: 4vw;
+    line-height: 4.533vw;
+    color: #000000;
+    font-family: "Prompt-Medium";
+  }
+  .mobile-moment-info .mobileBox h2 {
+    font-style: normal;
+    font-family: "Prompt-Light";
+    font-weight: 300;
+    font-size: 3.2vw;
+    line-height: 4.8vw;
+    color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    text-align: center;
+    margin-top: -6.4vw;
+    margin-bottom: 10.667vw;
+  }
+  .mobile-moment-info .mobileBox .card {
+    padding: 10.667vw 0px;
+    border-top: 0.267vw solid rgba(0, 0, 0, 0.3);
+    border-bottom: 0.267vw solid rgba(0, 0, 0, 0.3);
+  }
+  .mobile-moment-info .mobileBox .card .title-card {
+    font-size: 3.2vw;
+    font-family: "Prompt-SemiBold";
+  }
+  .mobile-moment-info .mobileBox .card .card-content {
+    font-size: 3.2vw;
+    margin-bottom: 4.8vw;
+    font-family: "Prompt-Light";
+  }
+  .mobile-moment-info .mobileBox .card .card-content-b {
+    font-size: 3.2vw;
+    font-family: "Prompt-Light";
+  }
+  .mobile-moment-info .mobileBox .share {
+    display: flex;
+    align-items: center;
+    height: 5.56vw;
+    margin-top: 10.667vw;
+    margin-bottom: 10.667vw;
+  }
+  .mobile-moment-info .mobileBox .share img {
+    margin-bottom: 0vw !important;
+  }
+  .mobile-moment-info .mobileBox .shareImg:nth-of-type(1) {
+    width: 12.267vw;
+  }
+  .mobile-moment-info .mobileBox .shareImg:nth-of-type(2) {
+    height: 5.56vw;
+    width: 5.56vw;
+    margin-left: 9.509vw;
+  }
+  .mobile-moment-info .mobileBox .shareImg:nth-of-type(3) {
+    height: 5.56vw;
+    width: 5.56vw;
+    margin-left: 3.707vw;
+  }
+  .mobile-moment-info .mobileBox .shareImg:nth-of-type(4) {
+    height: 5.56vw;
+    width: 5.56vw;
+    margin-left: 3.707vw;
+  }
+  .mobile-moment-info .mobileBox .sebox {
+    font-family: "Prompt-SemiBold";
+    font-size: 3.2vw;
+    margin-top: 10.667vw;
+  }
+  .mobile-moment-info .mobileBox .contentbox {
+    font-size: 3.2vw;
+    font-family: "Prompt-Light";
+  }
+  

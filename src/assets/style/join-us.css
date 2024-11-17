@@ -1,0 +1,291 @@
+.mobile-join-us .firs {
+    position: relative;
+  }
+  .mobile-join-us .firs .topimg {
+    width: 100vw;
+    display: block;
+  }
+  .mobile-join-us .firs .toptx {
+    position: absolute;
+    top: 29.933vw;
+    width: 100vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9.682vw;
+    line-height: 108%;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Medium";
+  }
+  .mobile-join-us .content-join-us{
+    padding: 0vw 5.333vw;
+  }
+  .mobile-join-us .content-join-us .title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    line-height: 4.533vw;
+    color: #000000;
+    margin-bottom: 4.267vw;
+    margin-top: 10.667vw;
+    text-align: center;
+    font-family: "Prompt-Regular";
+  }
+  .mobile-join-us .content-join-usp {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    font-family: "Prompt-Light";
+    color: #000000;
+    padding-bottom: 3.2vw;
+  }
+  .mobile-join-us .content-join-us .button {
+    width: 28.8vw;
+    height: 9.067vw;
+    font-size: 4vw;
+    font-family: "Prompt-Light";
+    margin: auto;
+    margin-top: 11.733vw;
+    margin-bottom: 17.067vw;
+  }
+  .mobile-join-us .nbBox {
+    padding: 10.667vw 5.333vw 0vw 5.333vw;
+    background-color: #f5f5f5;
+  }
+  .mobile-join-us .nbBox .nbImg {
+    width: 100%;
+    margin-bottom: 14.933vw;
+  }
+  .mobile-join-us .nbBox h1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    line-height: 4.533vw;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 4.267vw;
+    font-family: "Prompt-Regular";
+  }
+  .mobile-join-us .nbBox p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    color: #000000;
+    padding-bottom: 21.333vw;
+    font-family: "Prompt-Light";
+  }
+  .mobile-join-us .bottomBoxJoin {
+    text-align: center;
+    padding-bottom: 37.6vw;
+  }
+  .mobile-join-us .bottomBoxJoin div:nth-of-type(1) {
+    font-family: "Prompt-Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9.067vw;
+    line-height: 9.067vw;
+    text-align: center;
+    margin-top: 17.067vw;
+  }
+  .mobile-join-us .bottomBoxJoin div:nth-of-type(2) {
+    font-family: "Prompt-Light";
+    font-style: normal;
+    margin-top: 10.133vw;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    text-align: center;
+    color: #000000;
+  }
+  .mobile-join-us .bottomBoxJoin div:nth-of-type(3) {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    text-align: center;
+    color: #000000;
+    font-family: "Prompt-Light";
+  }
+  .mobile-join-us .bottomBoxJoin div:nth-of-type(4) {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    text-align: center;
+    margin-bottom: 6.406vw;
+    font-family: "Prompt-Light";
+    color: #000000;
+  }
+  .mobile-join-us .bottomBoxJoin div:nth-of-type(4) span {
+    font-family: "Prompt-Medium";
+    color: #f65a11;
+  }
+  .mobile-join-us .bottomBoxJoin div:nth-of-type(5) {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    text-align: center;
+    font-family: "Prompt-Light";
+    color: #f65a11;
+    margin-bottom: 25.6vw;
+  }
+  .pc-join-us .top-pc {
+    position: relative;
+  }
+  .pc-join-us .top-pc .topImg-pc {
+    width: 100%;
+    display: block;
+  }
+  .pc-join-us .top-pc .toptext {
+    position: absolute;
+    font-family: "Prompt-Medium";
+    top: 16.979vw;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 5.043vw;
+    line-height: 108%;
+  }
+  .pc-join-us .pcCardBox {
+    padding: 4.167vw 6.563vw;
+    text-align: center;
+  }
+  .pc-join-us .pcCardBox .pcCardcode {
+    font-weight: 400;
+    font-size: 2.292vw;
+    line-height: 3.49vw;
+    text-align: center;
+    color: #000000;
+    font-family: "Prompt-Regular";
+  }
+  .pc-join-us .pcCardBox .content-1 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: left;
+    margin-top: 1.667vw;
+    color: #000000;
+    font-family: "Prompt-Light";
+    margin-bottom: 2.5vw;
+  }
+  .pc-join-us .pcCardBox .content-2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    color: #000000;
+    font-family: "Prompt-Light";
+    margin-bottom: 2.292vw;
+  }
+  .pc-join-us .pcCardBox .conimg {
+    display: inline-block;
+  }
+  .pc-join-us .pcCardBox .button {
+    width: 6.667vw;
+    height: 2.083vw;
+    margin: auto;
+    border: 0.052vw solid black;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.938vw;
+    line-height: 2.083vw;
+    text-align: center;
+  }
+  .pc-join-us .pcCardBox .button:hover {
+    border: 0.052vw solid white;
+  }
+  .pc-join-us .pctab {
+    display: flex;
+    padding: 0px 6.563vw;
+    margin-bottom: 5vw;
+  }
+  .pc-join-us .pctab .pctabImg {
+    height: 35.417vw;
+    width: 55.833vw;
+  }
+  .pc-join-us .pctab .weBox {
+    background: #f6f6f6;
+    height: 35.417vw;
+    width: 31.042vw;
+    padding-left: 2.917vw;
+    padding-right: 3.125vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .pc-join-us .pctab .weBox .title {
+    margin-bottom: 1.667vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 1.771vw;
+    font-family: "Prompt-Regular";
+  }
+  .pc-join-us .pctab .weBox .content1 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.771vw;
+    color: #000000;
+    margin-bottom: 2.083vw;
+    font-family: "Prompt-Light";
+  }
+  .pc-join-us .bottomBoxJoin {
+    padding-bottom: 10.208vw;
+    text-align: center;
+  }
+  .pc-join-us .bottomBoxJoin div:nth-of-type(1) {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.865vw;
+    line-height: 2.292vw;
+    font-family: "Prompt-Bold";
+    width: 100vw;
+    text-align: center;
+    color: #040404;
+  }
+  .pc-join-us .bottomBoxJoin div:nth-of-type(2) {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.771vw;
+    line-height: 2.656vw;
+    text-align: center;
+    font-family: "Prompt-Light";
+    color: #000000;
+    margin-top: 1.25vw;
+    margin-bottom: 1.25vw;
+  }
+  .pc-join-us .bottomBoxJoin div:nth-of-type(3) {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.771vw;
+    line-height: 2.656vw;
+    text-align: center;
+    color: #000000;
+    font-family: "Prompt-Light";
+  }
+  .pc-join-us .bottomBoxJoin div:nth-of-type(3) span {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.771vw;
+    line-height: 2.656vw;
+    text-align: center;
+    color: #f65a11;
+    font-family: "Prompt-Medium";
+  }
+  .pc-join-us .bottomBoxJoin div:nth-of-type(4) {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    font-family: "Prompt-Light";
+    color: #000000;
+  }
+  

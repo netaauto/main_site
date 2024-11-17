@@ -1,0 +1,1144 @@
+.pc-s .pcbox {
+    position: relative;
+  }
+
+
+
+  .pc-s .pcbox .topimg {
+    width: 100vw;
+    display: block;
+  }
+  .pc-s .pcbox .iconPc {
+    position: absolute;
+    z-index: 100;
+    width: 18.177vw;
+    height: 4.688vw;
+    left: 5.573vw;
+    bottom: 9.844vw;
+  }
+  .pc-s .pcbox .one_bt {
+    font-weight: 300;
+    font-size: 1.771vw;
+    line-height: 1.771vw;
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    z-index: 100;
+    left: 6.094vw;
+    bottom: 7.396vw;
+    font-family: "Prompt-Light";
+  }
+  .productadd {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.4vw;
+    line-height: 3.2vw;
+    font-family: "Prompt-Regular";
+    left: 8.533vw;
+    bottom: 10.667vw;
+    color: #ffffff;
+    position: absolute;
+  }
+  .pc-s .pcbox .botxt {
+    font-family: "Prompt-Light";
+    position: absolute;
+    height: 1.25vw;
+    left: 69.531vw;
+    bottom: 2.5vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.833vw;
+    line-height: 1.25vw;
+    text-align: center;
+    color: #ffffff;
+    z-index: 100;
+  }
+  .pc-s .two {
+    height: 56.25vw;
+    position: relative;
+    display: flex;
+    /* 使内部元素成为 flex 容器 */
+    justify-content: center;
+    /* 水平居中内部元素 */
+    align-items: center;
+  }
+  .pc-s .two .anm {
+    overflow: hidden;
+    width: 60vw;
+    height: 36.458vw;
+    display: flex;
+    /* 使内部元素成为 flex 容器 */
+    justify-content: center;
+    /* 水平居中内部元素 */
+    align-items: center;
+    position: relative;
+  }
+  .pc-s .two .anm .topimg {
+    width: 100vw;
+    display: block;
+  }
+  .pc-s .two .anm .topBox {
+    position: absolute;
+    top: 8.333vw;
+  }
+  .pc-s .two .anm .topBox .top {
+    font-style: normal;
+    font-weight: 400;
+    width: 100%;
+    font-size: 2.292vw;
+    line-height: 1.771vw;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Regular";
+    top: 8.333vw;
+  }
+  .pc-s .two .anm .topBox .top2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    color: #ffffff;
+    font-family: "Prompt-Light";
+    margin-bottom: 3.333vw;
+    margin-top: 1.667vw;
+    width: 100%;
+    text-align: center;
+  }
+  .pc-s .two .anm .topBox .content2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 41.302vw;
+    top: 13.073vw;
+    left: 29.375vw;
+    color: #ffffff;
+  }
+  .pc-s .two .anm .topBox .content2 .t1 {
+    position: relative;
+  }
+  .pc-s .two .anm .topBox .content2 .t1 > div:nth-child(1) {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.146vw;
+    line-height: 1.146vw;
+    color: #ffffff;
+    font-family: "Prompt-Regular";
+  }
+  .pc-s .two .anm .topBox .content2 .t1 > div:nth-child(2) {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.813vw;
+    line-height: 3.125vw;
+    font-family: "Prompt-Regular";
+  }
+  .pc-s .two .anm .topBox .content2 .t1 > div:nth-child(2) span {
+    font-size: 1.146vw;
+    font-family: "Prompt-Regular";
+  }
+  .pc-s .tr {
+    position: relative;
+  }
+  .pc-s .tr .topimg {
+    width: 100vw;
+    display: block;
+  }
+  .pc-s .tr .contentBox {
+    position: absolute;
+    z-index: 100;
+    top: 8.542vw;
+    width: 100vw;
+  }
+  .pc-s .tr .contentBox .t1Box {
+    width: 100vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.292vw;
+    line-height: 1.771vw;
+    text-align: center;
+    font-family: "Prompt-Regular";
+    color: #ffffff;
+  }
+  .pc-s .tr .contentBox .conBox {
+    margin-left: 19.323vw;
+    width: 61.302vw;
+    margin-top: 2.083vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .pc-s .tr .contentBox .conBox .content {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    font-family: "Prompt-Light";
+    color: #ffffff;
+    width: 30%;
+  }
+  .pc-s .tr .contentBox .conBox .line {
+    height: 1.719vw;
+    width: 0.052vw;
+    background-color: white;
+  }
+  .pc-s .for {
+    width: 100vw;
+    height: 47.917vw;
+  }
+  .pc-s .for .top1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.292vw;
+    line-height: 108%;
+    font-family: "Prompt-Regular";
+    color: #050505;
+    margin-top: 8.333vw;
+    width: 100vw;
+    text-align: center;
+    margin-bottom: 5vw;
+  }
+  .pc-s .for .btBox {
+    user-select: none;
+    display: flex;
+    width: 100vw;
+    position: relative;
+    z-index: 99;
+  }
+  .pc-s .for .btBox .box1 {
+    position: absolute;
+    z-index: 100;
+    left: 12.5vw;
+    top: 0vw;
+    width: 36.25vw;
+    overflow: hidden;
+    display: flex;
+  }
+  .pc-s .for .btBox .box1:hover {
+   
+    width: 100vw;
+    transition: all 0.5s;
+    z-index: 99999;
+   
+  }
+
+  .pc-s .for .btBox .box1:hover .add {
+    transform: translateX(0%);
+  }
+
+
+  .pc-s .for .btBox .box1 .add {
+    position: relative;
+    transform: translateX(-50%);
+    display: flex;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .box1 .add .lefImg {
+    width: 37.5vw;
+    height: 29.688vw;
+    display: flex;
+  }
+  .pc-s .for .btBox .box1 .add .lefImg .limg {
+    width: 37.5vw;
+    height: 29.688vw;
+    background: #f9f9f9;
+  }
+  .pc-s .for .btBox .box1 .add .lefImg .limg .abox {
+    width: 8.125vw;
+    height: 12.188vw;
+    margin-top: 6.25vw;
+    margin-left: 4.583vw;
+  }
+  
+  .pc-s .for .btBox .box1 .add .lefImg .limg .abox .a1 {
+    font-family: "Prompt-Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 1.771vw;
+    margin-bottom: 1.563vw;
+  }
+  .pc-s .for .btBox .box1 .add .lefImg .limg .abox .a2 {
+    display: flex;
+    font-family: "Prompt-Light";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.771vw;
+    color: #000000;
+    align-items: center;
+  }
+  .pc-s .for .btBox .box1 .add .lefImg .limg .abox .a2 .radio {
+    width: 0.417vw;
+    height: 0.417vw;
+    border-radius: 50%;
+    margin-right: 0.625vw;
+    background-color: black;
+  }
+  
+  .pc-s .for .btBox .box1 .add .front {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 1.771vw;
+    font-family: "Prompt-Regular";
+    right: 30.104vw;
+    bottom: 1.667vw;
+    color: white;
+  }
+  .pc-s .for .btBox .box1 .add .fontImg {
+    position: absolute;
+    width: 2.917vw;
+    right: 1.667vw;
+    bottom: 0.99vw;
+  }
+  .pc-s .for .btBox .box1 .add .front1 {
+    opacity: 0;
+    right: 32.104vw;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .box1 .add .fontImg1 {
+    opacity: 0;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .box1tr {
+    width: 100% !important;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .box1ntr {
+    width: 36.25vw !important;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .addyes {
+    transform: translateX(0%) !important;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .addno {
+    transform: translateX(-50%) !important;
+    transition: all 0.5s;
+  }
+
+  .pc-s .for .btBox .n1-box2-x {
+    width: 36.25vw;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .n1-box2-x:hover {
+    width: 100vw !important;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .n1-add {
+    transform: translateX(0%) !important;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .n1-add-x {
+    transform: translateX(50%) !important;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .box2 {
+    position: absolute;
+    z-index: 100;
+    right: 12.5vw;
+    top: 0vw;
+    justify-content: flex-end;
+    width: 36.25vw;
+    overflow: hidden;
+    display: flex;
+    transition: all 0.5s;
+  }
+
+  .pc-s .for .btBox .box2 .add2 {
+    transform: translateX(50%);
+    display: flex;
+    transition: all 0.5s;
+
+  }
+  .pc-s .for .btBox .box2:hover{
+    width: 100%;
+}
+.pc-s .for .btBox  .box2:hover .add2{
+    transform: translateX(0%);
+} 
+
+
+
+
+
+
+  .pc-s .for .btBox .box2 .add2 .lefImg {
+    width: 37.5vw;
+    height: 29.688vw;
+    display: flex;
+  }
+  .pc-s .for .btBox .box2 .add2 .lefImg .limg {
+    width: 37.5vw;
+    height: 29.688vw;
+    background: #f9f9f9;
+  }
+  .pc-s .for .btBox .box2 .add2 .lefImg .limg .bbox {
+    width: 12.188vw;
+    margin-left: 20.729vw;
+    margin-top: 6.25vw;
+  }
+  .pc-s .for .btBox .box2 .add2 .lefImg .limg .bbox .a1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 1.771vw;
+    text-align: right;
+    margin-bottom: 1.563vw;
+    font-family: "Prompt-Regular";
+  }
+  .pc-s .for .btBox .box2 .add2 .lefImg .limg .bbox .a2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.771vw;
+    font-family: "Prompt-Light";
+    text-align: right;
+    color: #000000;
+  }
+  
+  .pc-s .for .btBox .box2 .add2 .front {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 1.771vw;
+    font-family: "Prompt-Regular";
+    right: 67.229vw;
+    bottom: 1.667vw;
+    color: white;
+  }
+  .pc-s .for .btBox .box2 .add2 .fontImg {
+    right: 38.167vw;
+    position: absolute;
+    width: 2.917vw;
+    bottom: 0.99vw;
+  }
+  .pc-s .for .btBox .box2 .add2 .front2 {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.771vw;
+    line-height: 1.771vw;
+    font-family: "Prompt-Regular";
+    right: 70.229vw;
+    bottom: 1.667vw;
+    color: white;
+    opacity: 0;
+    transition: all 0.5s;
+  }
+  .pc-s .for .btBox .box2 .add2 .fontImg2 {
+    right: 35.167vw;
+    position: absolute;
+    width: 2.917vw;
+    bottom: 0.99vw;
+    opacity: 0;
+    transition: all 0.5s;
+  }
+  .pc-s .for .rimg {
+    width: 37.5vw;
+    height: 29.688vw;
+  }
+  .pc-s .fiv .imgBox {
+    width: 100vw;
+    position: relative;
+  }
+  .pc-s .fiv .imgBox img {
+    width: 100vw;
+    display: block;
+  }
+  .pc-s .fiv .imgBox .content1 {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    width: 100%;
+    font-size: 2.292vw;
+    line-height: 1.771vw;
+    text-align: center;
+    color: #ffffff;
+    top: 18.125vw;
+    font-family: "Prompt-Regular";
+  }
+  .pc-s .fiv .imgBox .content2 {
+    position: absolute;
+    width: 75vw;
+    display: flex;
+    top: 46.719vw;
+    left: 12.5vw;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .pc-s .fiv .imgBox .content2 .line {
+    width: 0.052vw;
+    height: 1.719vw;
+    background-color: white;
+  }
+  .pc-s .fiv .imgBox .content2 .t1 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Light";
+  }
+  .pc-s .fiv .bottomBox {
+    height: 29.948vw;
+    background-color: rgba(26, 41, 58, 0.9);
+  }
+  .pc-s .fiv .bottomBox .box {
+    display: flex;
+    justify-content: space-between;
+    width: 75.052vw;
+    margin-left: 12.5vw;
+    padding-top: 3.125vw;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox {
+    width: 17.969vw;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .image-container {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .image-container img {
+    display: block;
+    width: 100%;
+    transition: transform 0.3s ease;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .image-container:hover img {
+    transform: scale(1.1);
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox {
+    width: 17.967vw;
+    margin-top: 1.682vw;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox div {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Light";
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox .t1p {
+    display: flex;
+    font-family: "Prompt-Light";
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox .t1p .t1 {
+    margin-left: 7.708vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox .t1p .t2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.833vw;
+    margin-left: 0.104vw;
+    line-height: 0.833vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox .t2p {
+    display: flex;
+    font-family: "Prompt-Light";
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox .t2p .t1 {
+    margin-left: 4.427vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox .t2p .t2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.833vw;
+    line-height: 0.833vw;
+    /* identical to box height, or 100% */
+    text-align: center;
+    margin-left: 0.156vw;
+    color: #ffffff;
+    margin-top: 0.156vw;
+  }
+  .pc-s .fiv .bottomBox .box .imgbox .containerBox .t2p .t3 {
+    margin-left: 0.469vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .pc-s .six {
+    width: 100vw;
+    margin-bottom: 9.271vw;
+  }
+  .pc-s .six .top {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.292vw;
+    margin-top: 8.333vw;
+    width: 100vw;
+    text-align: center;
+    line-height: 108%;
+    color: #050505;
+    font-family: "Prompt-Regular";
+  }
+  .pc-s .six .content2 {
+    width: 64.01vw;
+    display: flex;
+    margin-top: 1.771vw;
+    margin-left: 18.021vw;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6.042vw;
+  }
+  .pc-s .six .content2 .line {
+    width: 0.052vw;
+    height: 1.719vw;
+    background: #000000;
+  }
+  .pc-s .six .content2 .t1 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.146vw;
+    line-height: 1.719vw;
+    text-align: center;
+    color: #000000;
+    font-family: "Prompt-Light";
+  }
+  .pc-s .six img {
+    width: 75vw;
+    margin-left: 12.5vw;
+  }
+  .pc-s .sev {
+    width: 100vw;
+    position: relative;
+  }
+  .pc-s .sev .t2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.833vw;
+    line-height: 1.25vw;
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    right: 3.125vw;
+    bottom: 2.5vw;
+    z-index: 100;
+  }
+  .pc-s .sev img {
+    width: 100vw;
+    display: block;
+  }
+  .pc-s .sev .top {
+    font-style: normal;
+    font-weight: 400;
+    width: 100%;
+    font-size: 2.292vw;
+    line-height: 1.771vw;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Regular";
+    top: 8.333vw;
+    position: absolute;
+  }
+  .pc-s .sev .content2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40.409vw;
+    top: 13.073vw;
+    left: 29.792vw;
+    color: #ffffff;
+    position: absolute;
+  }
+  .pc-s .sev .content2 .t1 > div:nth-child(1) {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.813vw;
+    font-family: "Prompt-Regular";
+    color: #ffffff;
+    line-height: 4.271vw;
+  }
+  .pc-s .sev .content2 .t1 > div:nth-child(1) span {
+    font-size: 1.771vw;
+    font-family: "Prompt-Regular";
+  }
+  .pc-s .sev .content2 .t1 > div:nth-child(2) {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.042vw;
+    line-height: 1.667vw;
+    color: #ffffff;
+    font-family: "Prompt-Light";
+    margin-top: -0.938vw;
+  }
+  .mobile-s .oneBox-m {
+    position: relative;
+    width: 100%;
+  }
+
+.mobile-s .mobile-s-img-slide img{
+    width: 100vw;
+}
+
+  .mobile-s .oneBox-m .oneImg-m {
+    display: block;
+    width: 100vw;
+    left: 0px;
+  }
+  .mobile-s .oneBox-m .one1-m {
+    position: absolute;
+    z-index: 100;
+    height: 14.133vw;
+    width: 54.093vw;
+    left: 8.682vw;
+    bottom: 30.933vw;
+    border-radius: 0vw;
+  }
+  .mobile-s .oneBox-m .one_text-m {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 5.363vw;
+    line-height: 5.333vw;
+    position: absolute;
+    color: #ffffff;
+    left: 9.067vw;
+    bottom: 23.512vw;
+    font-family: "Prompt-Light";
+  }
+  .mobile-s .oneBox-m .buimg-m {
+    position: absolute;
+    height: 7.733vw;
+    width: 23.467vw;
+    left: 9.067vw;
+    top: 147.733vw;
+    border-radius: 0px;
+    z-index: 100;
+  }
+  .mobile-s .tre-m .title-m {
+    font-family: "Prompt-Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    line-height: 2.933vw;
+    height: 3.2vw;
+    text-align: center;
+    margin-top: 32vw;
+    color: #000000;
+    margin-bottom: 10.667vw;
+  }
+  .mobile-s .tre-m .info-m {
+    display: flex;
+    justify-content: space-between;
+    width: 57.867vw;
+    margin-left: 21.333vw;
+    margin-top: 2.667vw;
+    margin-bottom: 10.667vw;
+  }
+  .mobile-s .carInfo {
+    height: 205.6vw;
+    background-color: #1a293a;
+    position: relative;
+  }
+  .mobile-s .carInfo .carBox {
+    position: relative;
+  }
+  .mobile-s .carInfo .carBox img {
+    width: 100vw;
+  }
+  .mobile-s .carInfo .carBox .info {
+    width: 71.733vw;
+    position: absolute;
+    left: 5.333vw;
+    top: 14.4vw;
+  }
+  .mobile-s .carInfo .carBox .info .ak {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    line-height: 2.933vw;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Prompt-Regular";
+    margin-bottom: 5.333vw;
+  }
+  .mobile-s .carInfo .carBox .info .t12 {
+    display: flex;
+    width: 89.333vw;
+    align-items: center;
+    font-family: "Prompt-Light";
+  }
+  .mobile-s .carInfo .carBox .info .t12 .solid_round {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 2.091vw;
+  }
+  .mobile-s .carInfo .carBox .info .t12 .solid_round_n {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    margin-right: 2.091vw;
+  }
+  .mobile-s .carInfo .carBox .info .t12 .t2 {
+    width: 77.6vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    color: #ffffff;
+  }
+  .mobile-s .carInfo .swiper-containerD {
+    width: 98vw;
+    height: 165.6vw;
+    overflow: hidden;
+    position: absolute;
+    z-index: 999;
+    top: 122.4vw;
+  }
+  .mobile-s .carInfo .swiper-containerD .swiper-wrapper {
+    width: 75vw;
+  }
+  .mobile-s .carInfo .swiper-containerD .swiper-wrapper .cadd {
+    width: 52.267vw !important;
+    height: 157.867vw;
+  }
+  .mobile-s .carInfo .swiper-containerD .swiper-wrapper .cadd .bottomImg {
+    width: 52.267vw;
+    display: block;
+    height: auto;
+  }
+  .mobile-s .mobile-s-img-slide  .title {
+    font-family: "Prompt-Medium";
+    margin-top: 7.467vw;
+    margin-bottom: 2.667vw;
+    width: 73.6vw;
+    height: 5.867vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5.333vw;
+    line-height: 108%;
+    color: #050505;
+  }
+  .mobile-s  .carInfo  .swiper-slide{
+    width: 52.267vw !important ;
+    margin-right: 20px !important;
+  }
+  .mobile-s .carInfo .swiper-containerD .swiper-wrapper .cadd .contentX {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 3.2vw;
+    line-height: 6.133vw;
+    color: #ffffff;
+    font-family: "Prompt-Light";
+    margin-top: 4.267vw;
+  }
+  .mobile-s .carInfo .swiper-containerD .swiper-wrapper .cadd .six {
+    width: 28.8vw;
+    height: 9.067vw;
+    margin-top: 14.933vw;
+  }
+  .mobile-s .for-m .forimg-m {
+    width: 89.333vw;
+    margin-left: 5.333vw;
+    margin-bottom: 7.467vw;
+  }
+  .mobile-s .for-m .title {
+    width: 100vw;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Prompt-Regular";
+    font-size: 5.333vw;
+    line-height: 108%;
+    text-align: center;
+    color: #000000;
+    margin-top: 15vw;
+    margin-bottom: 10.667vw;
+  }
+  .mobile-s .mobile-s-img-slide .t12 {
+    display: flex;
+    /* width: 89.333vw; */
+    align-items: center;
+    font-family: "Prompt-Light";
+  }
+  .mobile-s .mobile-s-img-slide .solid_round {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    background-color: black;
+    margin-right: 2.091vw;
+  }
+  .mobile-s .for-m .t12 .solid_round_n {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    margin-right: 2.091vw;
+  }
+  .mobile-s .for-m .t12  {
+    display: flex;
+    /* width: 89.333vw; */
+    align-items: center;
+    font-family: "Prompt-Light";
+    margin-left: 5.333vw;
+  }
+  .mobile-s .for-m .t12 .solid_round  {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    background-color: black;
+    margin-right: 2.091vw;
+  }
+  .mobile-s .sevebox {
+    position: relative;
+    margin-top: 15vw;
+  }
+  .mobile-s .sevebox .fiveimg-m {
+    width: 100vw;
+    display: block;
+  }
+  .mobile-s .sevebox .fiveOne-m {
+    font-family: "Prompt-Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    position: absolute;
+    height: 10.667vw;
+    left: 5.333vw;
+    top: 5.333vw;
+    line-height: 5.333vw;
+    color: white;
+  }
+  .mobile-s .sevebox .title {
+    position: absolute;
+    z-index: 100;
+    top: 9.067vw;
+    font-family: "Prompt-Regular";
+    left: 13.067vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    line-height: 2.933vw;
+    text-align: center;
+    color: #ffffff;
+  }
+  .mobile-s .sevebox .fiveTwo-m {
+    position: absolute;
+    width: 75.995vw;
+    height: 8.533vw;
+    left: 12vw;
+    bottom: 5.333vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .mobile-s .sevebox .fiveTwo-m .five-info .fiv-top-m {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.333vw;
+    line-height: 5.333vw;
+    font-family: "Prompt-Regular";
+    color: white;
+  }
+  .mobile-s .sevebox .fiveTwo-m .five-info .fiv-top-m span {
+    font-size: 3.467vw;
+    font-family: "Prompt-Regular";
+  }
+  .mobile-s .sevebox .fiveTwo-m .five-info .fivebot-m {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 2.133vw;
+    line-height: 2.133vw;
+    color: #ffffff;
+    font-family: "Prompt-Light";
+    margin-top: 1.067vw;
+  }
+  .mobile-s .sevebox .vertical-bar-m {
+    height: 6.755vw;
+    width: 0.267vw;
+    background-color: white;
+  }
+  .mobile-s .swiper-container-mobile {
+    width: 100vw;
+    overflow: hidden;
+  }
+  .mobile-s .swiper-container-mobile .mobileSwiper {
+    width: 89.333vw !important;
+  }
+  .mobile-s .swiper-container-mobile .mobile-swiper {
+    width: 89.333vw !important;
+    margin-left: 5.333vw;
+  }
+  .mobile-s .swiper-container-mobile .swiper-bottom-text-m {
+    font-family: "Prompt-Light";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    color: #000000;
+    margin-top: 7.467vw;
+    /* margin-left: 5.333vw; */
+  }
+  .mobile-s .swiper-container-mobile .swiper-bottom-text-m .t12 {
+    display: flex;
+    width: 89.333vw;
+    align-items: center;
+    font-family: "Prompt-Light";
+  }
+  .mobile-s .swiper-container-mobile .swiper-bottom-text-m .t12 .solid_round {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    background-color: black;
+    margin-right: 2.091vw;
+  }
+  .mobile-s .swiper-container-mobile .swiper-bottom-text-m .t12 .solid_round_n {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    margin-right: 2.091vw;
+  }
+  .mobile-s .swiper-container-mobile .swiper-bottom-text-m .t12 .t2 {
+    width: 77.6vw;
+  }
+  .mobile-s .swiper-container-mobile .swiper-pagination-m {
+    width: 16vw;
+    margin-left: 42vw;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15.224vw;
+    margin-bottom: 44.533vw;
+  }
+  .mobile-s .swiper-container-mobile .swiper-pagination-m .swd {
+    width: 4.267vw;
+    height: 0.267vw;
+    top: 1745.09px;
+    opacity: 0.45;
+    background-color: #666666;
+  }
+  .mobile-s .swiper-container-mobile .swiper-pagination-m .activeSwd {
+    width: 10.667vw !important;
+    background-color: #f65a11 !important;
+  }
+  .mobile-s .bottomSwiper {
+    overflow: hidden;
+    background: #f5f5f5;
+  }
+  .mobile-s .bottomSwiper .topContent {
+    margin-top: 23.467vw;
+    margin-bottom: 10.667vw;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Prompt-Regular";
+    font-size: 5.333vw;
+    line-height: 2.933vw;
+    text-align: center;
+    color: #000000;
+    width: 100vw;
+  }
+  .mobile-s .bottomSwiper .swiper-containerC {
+    width: 98vw;
+    height: 165.6vw;
+    overflow: hidden;
+  }
+  .mobile-s .bottomSwiper .swiper-containerC .swiper-wrapper {
+    width: 75vw;
+  }
+  .mobile-s .bottomSwiper .swiper-containerC .swiper-wrapper .cadd {
+    width: 84vw !important;
+    height: 157.867vw;
+  }
+  .mobile-s .bottomSwiper .swiper-containerC .swiper-wrapper .cadd .bottomImg {
+    width: 84vw;
+    height: 84vw;
+    display: block;
+  }
+  .mobile-s .mobile-s-img-slide .contentX .title {
+    font-family: "Prompt-Medium";
+    margin-top: 7.467vw;
+    margin-bottom: 2.667vw;
+    width: 73.6vw;
+    height: 5.867vw;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5.333vw;
+    line-height: 108%;
+    color: #050505;
+  }
+  .mobile-s .bottomSwiper .swiper-containerC .swiper-wrapper .cadd .contentX {
+    width: 81.867vw;
+    height: 8.533vw;
+    margin-top: 2.667vw;
+    font-family: "Prompt-Light";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 120%;
+    color: #000000;
+  }
+  .mobile-s .bottomSwiper .swiper-containerC .swiper-wrapper .cadd .contentX .t12 {
+    display: flex;
+    width: 89.333vw;
+    align-items: center;
+    font-family: "Prompt-Light";
+  }
+  .mobile
+    .bottomSwiper
+    .swiper-containerC
+    .swiper-wrapper
+    .cadd
+    .contentX
+    .t12
+    .solid_round {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    background-color: black;
+    margin-right: 2.091vw;
+  }
+  .mobile
+    .bottomSwiper
+    .swiper-containerC
+    .swiper-wrapper
+    .cadd
+    .contentX
+    .t12
+    .solid_round_n {
+    width: 1.067vw;
+    height: 1.067vw;
+    border-radius: 50%;
+    margin-right: 2.091vw;
+  }
+  .mobile
+    .bottomSwiper
+    .swiper-containerC
+    .swiper-wrapper
+    .cadd
+    .contentX
+    .t12
+    .t2 {
+    width: 77.6vw;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 4vw;
+    line-height: 6.133vw;
+    color: #000000;
+    font-family: "Prompt-Light";
+  }
+  .mobile-s .bottomSwiper .swiper-containerC .swiper-wrapper .cadd .six {
+    width: 28.8vw;
+    height: 9.067vw;
+    margin-top: 14.933vw;
+  }
+  
